@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Yepuri LakshmiBhavani</h1>
-<h3 align="center">💻 Full-Stack Developer | 🚀 Tech Explorer | 🌱 Lifelong Learner</h3>
+<h3 align="center">💻 web Developer | 🚀 Tech Explorer | 🌱 Lifelong Learner</h3>
 
 ---
 
@@ -29,10 +29,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
 
-  <!-- Database -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-</p>
 
 ---
 
@@ -44,5 +40,9 @@
   </a>
   <a href="https://github.com/Lakshmibhavaniyepuri/" target="blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
- 
+  </a>
+  </a>
+  <a href="https://www.gmail.com/bhavaniyepuri1975@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40" height="40"/>
+  </a>
 </p>
